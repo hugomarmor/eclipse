@@ -26,6 +26,7 @@ do {
         	 Triángulo t = new Triángulo(x, y, Color.red, lado1, lado2, lado3);
         	 System.out.println ("El perímetro es " + t.perímetro());
         	 System.out.println ("El área es " + t.área());
+        	 System.out.println ("El área es " + t.área());
         	 break;
          case 2:
 	         System.out.print ("Introduzca la base del rectángulo: ");
