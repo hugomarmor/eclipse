@@ -37,6 +37,7 @@ do {
         	 Rectángulo r = new Rectángulo(x, y, Color.red, base, altura);
         	 System.out.println ("El perímetro es " + r.perímetro());
         	 System.out.println ("El área es " + r.área());
+        	 System.out.println ("El área es " + r.área());
         	 break;
          case 3:
 	         System.out.print ("Introduzca el lado del cuadrado: ");
